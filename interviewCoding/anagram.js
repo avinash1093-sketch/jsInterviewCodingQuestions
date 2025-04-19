@@ -6,6 +6,6 @@ let a = f.toLowerCase();
 let b = s.toLowerCase();
 
 a = a.split('').sort().join('');
-b = b.split('').sort().join('')
+b = b.split('').sort().join('');
 console.log(a===b);
 })(firstWord,secondWord);

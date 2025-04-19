@@ -1,4 +1,4 @@
-let vowelString= 'avinashtiwari';
+
 
 (function countVowels (str){
     const vowels = 'aeiouAEIOU';

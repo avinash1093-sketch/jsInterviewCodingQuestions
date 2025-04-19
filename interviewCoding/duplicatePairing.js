@@ -1,5 +1,8 @@
 // let ad = [1, 2, 1, 2, 3,2, 4, 3,3, 4,6];
-let ad = ['a','b','a','b','c'];
+// let ad = ['a','b','a','b','c'];
+
+let ad = 'google'
+ad = ad.split('');
 
 // (function duplicatePairs(data) {
 //   return data.filter((elem, index) => {
